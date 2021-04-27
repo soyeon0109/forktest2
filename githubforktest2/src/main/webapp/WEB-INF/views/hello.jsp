@@ -16,5 +16,6 @@ $(document).ready(function() {
 <body>
 hello.jsp forktest2
 <h1>안녕하세요~!!</h1>
+test
 </body>
 </html>
